@@ -57,6 +57,9 @@
 ![gitCollaborateCMD](https://user-images.githubusercontent.com/37633219/147628951-51405e7e-0614-4709-89ec-74c56aa6b458.JPG)
 
   
-  
+# If Conflict
+
+![conflict](https://user-images.githubusercontent.com/37633219/147629878-4cdd68a4-d626-44e0-9423-4f08008b1078.JPG)
+
   
 
